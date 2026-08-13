@@ -37,7 +37,7 @@ const produtos = [
             99.90,
 
         imagem:
-            "imagem/WhatsApp%20Image%202026-08-13%20at%2013.35.36.jpeg",
+            "imagem/1.jpeg",
 
         descricao:
             "Ração para suinos e equinos, ideal para alimentação diária."
@@ -58,7 +58,7 @@ const produtos = [
             90.00,
 
         imagem:
-            "imagem/WhatsApp%20Image%202026-08-13%20at%2013.35.42.jpeg",
+            "imagem/2.jpeg",
 
         descricao:
             "Alimento completo para animais adultos."
@@ -79,7 +79,7 @@ const produtos = [
             125.90,
 
         imagem:
-            "imagem/WhatsApp%20Image%202026-08-13%20at%2013.35.48.jpeg",
+            "imagem/3.jpeg",
 
         descricao:
             "Ração de alta qualidade para suinos."
@@ -100,7 +100,7 @@ const produtos = [
             20.90,
 
         imagem:
-            "imagem/WhatsApp%20Image%202026-08-13%20at%2013.35.57.jpeg",
+            "imagem/4.jpeg",
 
         descricao:
             "Alimento completo para gatos adultos."
@@ -121,7 +121,7 @@ const produtos = [
             100.90,
 
         imagem:
-            "imagem/WhatsApp%20Image%202026-08-13%20at%2013.36.02.jpeg",
+            "imagem/5.jpeg",
 
         descricao:
             "Ração para gatos com nutrientes essenciais."
@@ -142,7 +142,7 @@ const produtos = [
             59.90,
 
         imagem:
-            "imagem/WhatsApp%20Image%202026-08-13%20at%2013.36.09.jpeg",
+            "imagem/6.jpeg",
 
         descricao:
             "Ração indicada para alimentação de aves."
@@ -163,7 +163,7 @@ const produtos = [
             99.90,
 
         imagem:
-            "imagem/WhatsApp%20Image%202026-08-13%20at%2013.36.16.jpeg",
+            "imagem/7.jpeg",
 
         descricao:
             "Ração destinada à alimentação de bovinos."
